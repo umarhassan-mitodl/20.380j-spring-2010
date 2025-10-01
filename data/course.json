@@ -1,0 +1,62 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering"
+    ],
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Health and Medicine",
+      "Biomedical Enterprise"
+    ],
+    [
+      "Health and Medicine",
+      "Pathology and Pathophysiology"
+    ]
+  ],
+  "legacy_uid": "ac66ca76-38a7-0997-d607-fad6776b3b51",
+  "instructors": {
+    "content": [
+      "bfcd34ea-926d-1d89-8eee-a52b06eb2271",
+      "afa998a1-c316-cf1f-be7d-d63eea289663",
+      "b160546f-f821-ea8f-5378-cc86333cefd7",
+      "79c7d9b8-d0f6-d285-30a5-798050214e99",
+      "23183d4c-8bdf-5028-570a-c5e46ed0661d",
+      "a64885d8-26dd-b95d-e900-92821b2b75f7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c16631b7-dab4-5a97-451c-3c335373fa23",
+    "website": "20-380j-biological-engineering-design-spring-2010"
+  },
+  "course_title": "Biological Engineering Design",
+  "hide_download": true,
+  "course_description": "This course illustrates how knowledge and principles of biology, biochemistry, and engineering are integrated to create new products for societal benefit. It uses a case study format to examine recently developed products of pharmaceutical and biotechnology industries: how a product evolves from initial idea, through patents, testing, evaluation, production, and marketing. Emphasizes scientific and engineering principles; the responsibility scientists, engineers, and business executives have for the consequences of their technology; and instruction and practice in written and oral communication.\n\nThe topic focus of this class will vary from year to year. This version looks at inflammation underlying many diseases, specifically its role in cancer, diabetes, and cardiovascular disease.\n",
+  "department_numbers": [
+    "20",
+    "5"
+  ],
+  "extra_course_numbers": "5.22J",
+  "primary_course_number": "20.380J",
+  "course_image_thumbnail": {
+    "content": "5dd47382-49ac-aee6-8534-f3118901d373",
+    "website": "20-380j-biological-engineering-design-spring-2010"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "278399b6-1cec-4ccd-a0b1-83be8e8273e3",
+  "site_short_id": "20.380j-spring-2010",
+  "site_url_path": "courses/20-380j-biological-engineering-design-spring-2010",
+  "title": "Course Metadata"
+}
