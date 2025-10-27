@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on project teams and deliverables for
   the course. Specific guidelines are provided for some deliverables.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
