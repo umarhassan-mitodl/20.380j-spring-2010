@@ -4,8 +4,6 @@ description: This syllabus section provides information on meeting times, prereq
   course goals, coursework and grading, and the schedule of topics, instructors, and
   assignment due dates.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -37,7 +35,7 @@ Underpinnings:
 - *Practical Pre-clinical and Clinical Analysis* – How does your device/drug/product work, how will you test it?
 - *Manufacturing* – How will you make it? Can it be made at reasonable cost?
 
-This is a CI-M ([Communications Intensive in the Major](http://web.mit.edu/commreq/)) subject. The communications portion focuses on professional skills like project management, communications in teams, peer review, and writing grant proposals.
+This is a CI-M ({{% resource_link "539ccb82-5e9d-415d-95eb-3ef5c3bb5e8f" "Communications Intensive in the Major" %}}) subject. The communications portion focuses on professional skills like project management, communications in teams, peer review, and writing grant proposals.
 
 ## Coursework and Grading
 
